@@ -1,3 +1,5 @@
+package java;
+
 public class DaoFactory {
     private static Ads adsDao;
 
